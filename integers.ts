@@ -1,7 +1,7 @@
 function decimalToBinary(decimal: number, complexity: "const" | "log"): string {
   return complexity === "const"
     ? constantDecimalToBinary(decimal)
-    : linearDecimalToBinary(decimal);
+    : logDecimalToBinary(decimal);
 }
 
 /**
@@ -19,7 +19,7 @@ function constantDecimalToBinary(decimal: number): string {
  * @param decimal {number}
  * @returns {string} - binary representation for the given decimal number
  */
-function linearDecimalToBinary(decimal: number): string {
+function logDecimalToBinary(decimal: number): string {
   if (decimal === 0) {
     return "0";
   }

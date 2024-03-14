@@ -102,3 +102,9 @@ Given:
 - `x`, `y`, `z`: Dimensions of the array
 
 Accessing equation: `h + (((i * z + j) * y + k) * c)`
+
+## References
+
+- [Code Masry - Array Data Structure](https://youtu.be/ALs4QeZ495Y?si=hwH-X2kPaJ0q0vIc).
+- [Code Masry - Multi Dimension Array Data Structure](https://youtu.be/A_CQhz8xsQg?si=sSUTkVUHTuRtp-x2).
+- [Code Masry - Three Dimension Array Data Structure](https://youtu.be/wubHiW8Vhds?si=lTEv68lqr5F5ya_u).

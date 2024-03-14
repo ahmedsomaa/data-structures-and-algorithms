@@ -157,5 +157,5 @@ So this means 111 represent -1 not 7.
 
 ## References
 
-- [CodeMasry - Integers Data Structure](https://youtu.be/RwKmMK4rP3U?si=rgaEkLS9TtR1d-5T)
-- [CodeMasry - Negative Integers Data Structure](https://youtu.be/rTCn3zIGui4?si=r1e7U3_2nSPQTWcA)
+- [Code Masry - Integers Data Structure](https://youtu.be/RwKmMK4rP3U?si=rgaEkLS9TtR1d-5T)
+- [Code Masry - Negative Integers Data Structure](https://youtu.be/rTCn3zIGui4?si=r1e7U3_2nSPQTWcA)

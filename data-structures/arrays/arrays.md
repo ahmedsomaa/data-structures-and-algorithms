@@ -13,15 +13,15 @@ Arrays can be categorized based on their dimensions:
 
 ### 1D
 
-![1D array visualization](../img/1d-array.png)
+![1D array visualization](../../img/1d-array.png)
 
 ### 2D
 
-![1D array visualization](../img/2d-array.png)
+![1D array visualization](../../img/2d-array.png)
 
 ### 3D
 
-![1D array visualization](../img/3d-array.png)
+![1D array visualization](../../img/3d-array.png)
 
 ## Operations
 

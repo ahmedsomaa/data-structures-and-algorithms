@@ -2,6 +2,11 @@
 
 An array is a fundamental data structure that stores a collection of elements, where each element is identified by at least one array index or key. Arrays are commonly used for organizing data and facilitating efficient access and manipulation.
 
+Arrays are:
+
+- collection of items stored at contiguous memory locations.
+- in some programming languages, arrays only store values of the same type and their length has to be defined at the time of creation.
+
 ## Overview
 
 Arrays can be categorized based on their dimensions:
@@ -40,8 +45,6 @@ The following table describes common operations on arrays along with their time 
 ## Representation
 
 Arrays are typically represented in memory as contiguous blocks of memory. The memory representation depends on the programming language and the underlying system architecture.
-
-[//]: # "Insert images illustrating array representation in memory here"
 
 ## Example Code (in TypeScript)
 
